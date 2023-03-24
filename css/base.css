@@ -135,6 +135,7 @@ body{
     display: flex;
 }
 .main{
+    width: 100%;
     display: flex;
     flex-direction: column;
     font-family: 'Roboto', sans-serif;
@@ -250,12 +251,7 @@ body{
     margin: 96px auto 0 auto;
     display: flex;
 }
-.exp__left, .tech__left{
-    /* width: 420px;
-    display: flex;
-    flex-direction: column; */
-    /* margin-left: 105px; */
-}
+
 .exp__name, .tech__name{
     color: #A6A8AD;
     font-family: 'Roboto', sans-serif;
